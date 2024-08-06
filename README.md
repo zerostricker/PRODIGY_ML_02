@@ -32,8 +32,3 @@ The dataset used for this project is from Kaggle's [Customer Segmentation Tutori
 
 ## Results
 The K-means algorithm grouped customers into distinct segments based on their annual income and spending score, providing valuable insights for targeted marketing strategies.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-segmentation.git
